@@ -1,11 +1,9 @@
-.submitbutton{
-    margin: 10%
-    
-}
 .html7magic {
     padding-bottom: 4px;
     color: white;
     font-size:12px;
+
+
 }
 .input1{
     margin: 0;
@@ -13,7 +11,4 @@
   font-size: 12px;
   border: 1pt solid #000000;
 
-}
-.forgotten{
-    font-size: 12px;
 }

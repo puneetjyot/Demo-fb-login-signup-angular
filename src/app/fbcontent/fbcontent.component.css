@@ -1,0 +1,84 @@
+.content{
+    padding-top: 2%
+}
+.size1 {
+    font-size: 36px;
+}
+.tweight{
+    font-weight: 600;
+}
+.size2{
+    font-size: 19px;
+}
+.firstname{
+    display: inline-block;
+    margin-bottom: 10px;
+    float: left;
+    margin-right: 8px;
+    
+}
+.first-text{
+    font-size: 18px;
+    padding: 8px 10px;
+    width:250px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+}
+.second-text{
+    font-size: 18px;
+    padding: 8px 10px;
+    width:500px;
+    border-color: #bdc7d8;
+    border-radius: 5px;
+}
+.mobile{
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 8px;
+}
+.password{
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 8px;
+}
+.birth{
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 8px; 
+}
+.date{
+    
+    width: 200;
+}
+.female{
+    margin-right: 20px;
+}
+.femaleradio{
+    margin-left: 20px;
+}
+.agreement{
+    color:#777;
+    font-size:11px;
+    width: 316px;
+}
+.signup{
+    font-size: 19px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    border: 1px solid;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+}
